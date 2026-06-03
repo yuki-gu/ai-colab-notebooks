@@ -3,4 +3,13 @@
 ### チートシート
 - **PyTorch_CheatSheet.ipynb**
 
-  PyTorchのチートシート。
+  PyTorchについてのチートシート。
+- **PyTorchLightning.ipynb**
+
+  PyTorch Lightningについてのチートシート
+- **Transformers.ipynb**
+
+  HuggingFace Transformersについてのチートシート
+- **Transformer.ipynb**
+
+  TensorFlowのTransformerモデルのチュートリアルに、Attention Is All You Need論文に即した詳細な説明を付加したもの
